@@ -100,6 +100,12 @@ Explore implications for coherence as a fundamental physical force.
 
 MIT License — free to use, adapt, and extend.
 
+
+
+[![DOI](https://zenodo.org/badge/1047834100.svg)](https://doi.org/10.5281/zenodo.17011668)
+
+
+
 📬 Contributions
 
 Pull requests, issues, and discussions are welcome.
