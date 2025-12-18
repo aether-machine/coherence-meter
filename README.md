@@ -1,5 +1,9 @@
 # Coherence Paradigm – Double Slit Simulation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17011674.svg)](https://doi.org/10.5281/zenodo.17011674)
+
+
+
 This repository explores the **double slit experiment** through the lens of a new **Coherence Paradigm**, where coherence is treated as the fundamental driver of physical phenomena.  
 
 Instead of framing the double slit as a paradox of "wave vs particle," we treat **visibility of the interference fringes** as a direct measure of **system coherence**.  
@@ -99,10 +103,6 @@ Explore implications for coherence as a fundamental physical force.
 ✨ License
 
 MIT License — free to use, adapt, and extend.
-
-
-
-[![DOI](https://zenodo.org/badge/1047834100.svg)](https://doi.org/10.5281/zenodo.17011668)
 
 
 
